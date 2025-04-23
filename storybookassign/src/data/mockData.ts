@@ -1,0 +1,58 @@
+export const tableData = [
+  {
+    id: '1',
+    name: 'Sarah Johnson',
+    role: 'Product Manager',
+    status: 'Active',
+    lastActive: '2 hours ago',
+  },
+  {
+    id: '2',
+    name: 'Michael Chen',
+    role: 'Frontend Developer',
+    status: 'Active',
+    lastActive: '5 minutes ago',
+  },
+  {
+    id: '3',
+    name: 'Emily Rodriguez',
+    role: 'UX Designer',
+    status: 'Inactive',
+    lastActive: '3 days ago',
+  },
+  {
+    id: '4',
+    name: 'David Kim',
+    role: 'Backend Developer',
+    status: 'Active',
+    lastActive: '1 hour ago',
+  },
+  {
+    id: '5',
+    name: 'Olivia Wilson',
+    role: 'Data Analyst',
+    status: 'Pending',
+    lastActive: '12 hours ago',
+  },
+  {
+    id: '6',
+    name: 'James Taylor',
+    role: 'DevOps Engineer',
+    status: 'Active',
+    lastActive: '30 minutes ago',
+  },
+  {
+    id: '7',
+    name: 'Sophia Martinez',
+    role: 'Project Manager',
+    status: 'Pending',
+    lastActive: '1 day ago',
+  },
+  {
+    id: '8',
+    name: 'Daniel Brown',
+    role: 'QA Engineer',
+    status: 'Inactive',
+    lastActive: '5 days ago',
+  },
+];
